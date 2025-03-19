@@ -5,3 +5,4 @@ payload:
   - DOMAIN-KEYWORD,xn--mes358aby2apfg
   - DOMAIN-SUFFIX,feigou.xyz
   - DOMAIN-SUFFIX,tqsms.xyz
+  - DOMAIN-SUFFIX,sms-activation.net
