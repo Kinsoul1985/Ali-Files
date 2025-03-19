@@ -4,3 +4,6 @@ payload:
   - DOMAIN-KEYWORD,xn--6nq44r2uh9rhj7f
   - DOMAIN-KEYWORD,xn--mes358aby2apfg
   - DOMAIN-SUFFIX,feigou.xyz
+  - DOMAIN-SUFFIX,microsoft.com
+  - DOMAIN-SUFFIX,office.com
+  - DOMAIN-SUFFIX,live.com
