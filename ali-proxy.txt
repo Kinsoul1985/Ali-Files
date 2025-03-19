@@ -6,3 +6,4 @@ payload:
   - DOMAIN-SUFFIX,feigou.xyz
   - DOMAIN-SUFFIX,tqsms.xyz
   - DOMAIN-SUFFIX,sms-activation.net
+  - DOMAIN-SUFFIX,wenlisi.cn
