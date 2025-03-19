@@ -3,3 +3,4 @@ payload:
   - DOMAIN-SUFFIX,meijutt.tv
   - DOMAIN-SUFFIX,rargb.to
   - DOMAIN-SUFFIX,sharepoint.com
+  - DOMAIN-SUFFIX,zhihu.com
