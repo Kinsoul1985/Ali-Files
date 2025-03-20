@@ -7,3 +7,4 @@ payload:
   - DOMAIN-SUFFIX,tqsms.xyz
   - DOMAIN-SUFFIX,sms-activation.net
   - DOMAIN-SUFFIX,wenlisi.cn
+  - DOMAIN-SUFFIX,dafeiji.one
