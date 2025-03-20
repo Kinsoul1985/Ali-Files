@@ -1,5 +1,6 @@
 payload:
   - DOMAIN-SUFFIX,idlechampions.com
+  - DOMAIN-SUFFIX,byteglow.com
   - DOMAIN-KEYWORD,xn--4gq62f52gdss
   - DOMAIN-KEYWORD,xn--6nq44r2uh9rhj7f
   - DOMAIN-KEYWORD,xn--mes358aby2apfg
