@@ -1,5 +1,6 @@
 payload:
   - PROCESS-NAME,OneDrive.exe
+  - PROCESS-NAME,iCloudDrive.exe
   - DOMAIN-SUFFIX,windows.net
   - DOMAIN-SUFFIX,meijutt.tv
   - DOMAIN-SUFFIX,rargb.to
