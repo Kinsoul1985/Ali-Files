@@ -10,3 +10,4 @@ payload:
   - DOMAIN-SUFFIX,wenlisi.cn
   - DOMAIN-SUFFIX,dafeiji.one
   - DOMAIN-SUFFIX,proxyinfo.net
+  - DOMAIN-SUFFIX,xchina.com
