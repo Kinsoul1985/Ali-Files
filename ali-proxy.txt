@@ -9,3 +9,4 @@ payload:
   - DOMAIN-SUFFIX,sms-activation.net
   - DOMAIN-SUFFIX,wenlisi.cn
   - DOMAIN-SUFFIX,dafeiji.one
+  - DOMAIN-SUFFIX,proxyinfo.net
