@@ -11,3 +11,4 @@ payload:
   - DOMAIN-SUFFIX,dafeiji.one
   - DOMAIN-SUFFIX,proxyinfo.net
   - DOMAIN-SUFFIX,xchina.com
+  - DOMAIN-SUFFIX,speedtest.net
