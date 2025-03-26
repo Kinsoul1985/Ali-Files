@@ -1,5 +1,5 @@
 payload:
-	#Proxy
+	#Proxy "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-proxy.txt"
   - DOMAIN-SUFFIX,idlechampions.com
   - DOMAIN-SUFFIX,byteglow.com
   - DOMAIN-KEYWORD,xn--4gq62f52gdss

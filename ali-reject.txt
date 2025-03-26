@@ -1,2 +1,2 @@
 payload:
-	#Reject
+	#Reject "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-reject.txt"
