@@ -1,4 +1,5 @@
 payload:
+	#Direct
   - PROCESS-NAME,OneDrive.exe
   - PROCESS-NAME,iCloudDrive.exe
   - DOMAIN-SUFFIX,windows.net

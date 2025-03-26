@@ -1,4 +1,5 @@
 payload:
+	#Proxy
   - DOMAIN-SUFFIX,idlechampions.com
   - DOMAIN-SUFFIX,byteglow.com
   - DOMAIN-KEYWORD,xn--4gq62f52gdss
@@ -11,4 +12,4 @@ payload:
   - DOMAIN-SUFFIX,dafeiji.one
   - DOMAIN-SUFFIX,proxyinfo.net
   - DOMAIN-SUFFIX,xchina.com
-  - DOMAIN-SUFFIX,speedtest.net
+#  - DOMAIN-SUFFIX,
