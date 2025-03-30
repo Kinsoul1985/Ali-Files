@@ -8,3 +8,4 @@ payload:
   - DOMAIN-SUFFIX,sharepoint.com
   - DOMAIN-SUFFIX,zhihu.com
   - DOMAIN-SUFFIX,icloud.com.cn
+  - DOMAIN-SUFFIX,ldmnq.com
