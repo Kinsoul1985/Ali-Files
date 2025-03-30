@@ -1,11 +1,11 @@
 payload:
 	#Direct "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-direct.txt"
-  - PROCESS-NAME,OneDrive.exe
-  - PROCESS-NAME,iCloudDrive.exe
-  - DOMAIN-SUFFIX,windows.net
-  - DOMAIN-SUFFIX,meijutt.tv
-  - DOMAIN-SUFFIX,rargb.to
-  - DOMAIN-SUFFIX,sharepoint.com
-  - DOMAIN-SUFFIX,zhihu.com
-  - DOMAIN-SUFFIX,icloud.com.cn
-  - DOMAIN-SUFFIX,ldmnq.com
+    - PROCESS-NAME,OneDrive.exe
+    - PROCESS-NAME,iCloudDrive.exe
+    - DOMAIN-SUFFIX,windows.net
+    - DOMAIN-SUFFIX,meijutt.tv
+    - DOMAIN-SUFFIX,rargb.to
+    - DOMAIN-SUFFIX,sharepoint.com
+    - DOMAIN-SUFFIX,zhihu.com
+    - DOMAIN-SUFFIX,icloud.com.cn
+    - DOMAIN-SUFFIX,ldmnq.com
