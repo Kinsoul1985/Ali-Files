@@ -1,5 +1,5 @@
 payload:
-	#Direct "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-direct.txt"
+	#Direct "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-direct.yaml"
     - PROCESS-NAME,OneDrive.exe
     - PROCESS-NAME,iCloudDrive.exe
     - DOMAIN-SUFFIX,windows.net
