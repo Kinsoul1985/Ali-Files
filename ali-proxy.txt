@@ -13,4 +13,4 @@ payload:
     - DOMAIN-SUFFIX,dafeiji.one
     - DOMAIN-SUFFIX,proxyinfo.net
     - DOMAIN-SUFFIX,xchina.com
-#    - DOMAIN-SUFFIX,
+    - DOMAIN-SUFFIX,kinsoul1985.workers.dev
