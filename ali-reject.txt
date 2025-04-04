@@ -1,5 +1,5 @@
 payload:
-	#Peject "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-reject.txt"
+	#Reject "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-reject.txt"
     - '+.0.101tubeporn.com'
     - '+.0.clicks4me.fwh.is'
     - '+.0.code.cotsta.ru'
