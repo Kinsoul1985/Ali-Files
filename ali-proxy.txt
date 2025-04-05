@@ -14,3 +14,4 @@ payload:
     - DOMAIN-SUFFIX,proxyinfo.net
     - DOMAIN-SUFFIX,xchina.com
     - DOMAIN-SUFFIX,kinsoul1985.workers.dev
+    - DOMAIN-SUFFIX,freedomain.one
