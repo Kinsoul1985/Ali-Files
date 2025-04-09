@@ -17,3 +17,4 @@ payload:
     - DOMAIN-SUFFIX,freedomain.one
     - DOMAIN-SUFFIX,2dfan.com
     - DOMAIN-SUFFIX,orangepix.is
+    - DOMAIN-SUFFIX,ecoimages.xyz
