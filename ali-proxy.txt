@@ -16,3 +16,4 @@ payload:
     - DOMAIN-SUFFIX,kinsoul1985.workers.dev
     - DOMAIN-SUFFIX,freedomain.one
     - DOMAIN-SUFFIX,2dfan.com
+    - DOMAIN-SUFFIX,orangepix.is
