@@ -18,3 +18,4 @@ payload:
     - DOMAIN-SUFFIX,2dfan.com
     - DOMAIN-SUFFIX,orangepix.is
     - DOMAIN-SUFFIX,ecoimages.xyz
+    - DOMAIN-SUFFIX,pothutepu.com
