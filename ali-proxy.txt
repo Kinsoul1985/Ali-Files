@@ -19,3 +19,4 @@ payload:
     - DOMAIN-SUFFIX,orangepix.is
     - DOMAIN-SUFFIX,ecoimages.xyz
     - DOMAIN-SUFFIX,pothutepu.com
+    - DOMAIN-SUFFIX,cmp1-hkg1.steamserver.net
