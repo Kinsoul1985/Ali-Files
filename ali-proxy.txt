@@ -20,3 +20,4 @@ payload:
     - DOMAIN-SUFFIX,ecoimages.xyz
     - DOMAIN-SUFFIX,pothutepu.com
     - DOMAIN-SUFFIX,steamserver.net
+    - DOMAIN-SUFFIX,whatsapp.net
