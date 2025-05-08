@@ -1,5 +1,5 @@
 payload:
-	#Proxy "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-proxy.yaml"
+    #Proxy "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-proxy.yaml"
     - DOMAIN-SUFFIX,idlechampions.com
 #    - PROCESS-NAME,IdleDragons
     - IP-CIDR,2a0a:f280::/32,no-resolve
@@ -17,3 +17,4 @@ payload:
     - DOMAIN-SUFFIX,kinsoul1985.workers.dev
     - DOMAIN-SUFFIX,2dfan.com
     - DOMAIN-SUFFIX,ffsky.com
+    - DOMAIN-SUFFIX,adblockplus.org
