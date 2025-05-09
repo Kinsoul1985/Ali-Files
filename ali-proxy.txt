@@ -26,3 +26,4 @@ payload:
     - DOMAIN-SUFFIX,qbittorrent.org
     - DOMAIN-SUFFIX,ffsky.com
     - DOMAIN-SUFFIX,adblockplus.org
+    - DOMAIN-SUFFIX,steampowered.com
