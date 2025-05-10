@@ -27,3 +27,4 @@ payload:
     - DOMAIN-SUFFIX,ffsky.com
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,steampowered.com
+    - DOMAIN-SUFFIX,broadcom.com
