@@ -1,7 +1,7 @@
 payload:
 	#Proxy "https://raw.githubusercontent.com/Kinsoul1985/Ali-Files/main/ali-proxy.txt"
     - DOMAIN-SUFFIX,idlechampions.com
-#    - PROCESS-NAME,IdleDragons
+    - PROCESS-NAME,IdleDragons
     - IP-CIDR,2a0a:f280::/32,no-resolve
     - DOMAIN-SUFFIX,byteglow.com
     - DOMAIN-KEYWORD,xn--4gq62f52gdss
