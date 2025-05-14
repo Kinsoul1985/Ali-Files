@@ -28,3 +28,4 @@ payload:
     - DOMAIN-SUFFIX,adblockplus.org
     - DOMAIN-SUFFIX,steampowered.com
     - DOMAIN-SUFFIX,broadcom.com
+    - DOMAIN-SUFFIX,qichiyu.com
