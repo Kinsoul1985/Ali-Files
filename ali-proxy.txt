@@ -29,3 +29,4 @@ payload:
     - DOMAIN-SUFFIX,steampowered.com
     - DOMAIN-SUFFIX,broadcom.com
     - DOMAIN-SUFFIX,qichiyu.com
+    - DOMAIN-SUFFIX,toolsnotincluded.net
