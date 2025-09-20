@@ -31,4 +31,4 @@ payload:
     - DOMAIN-SUFFIX,broadcom.com
     - DOMAIN-SUFFIX,qichiyu.com
     - DOMAIN-SUFFIX,toolsnotincluded.net
-	- DOMAIN-SUFFIX,intporn.com
+    - DOMAIN-SUFFIX,intporn.com
