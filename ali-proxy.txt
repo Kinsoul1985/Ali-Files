@@ -32,3 +32,4 @@ payload:
     - DOMAIN-SUFFIX,qichiyu.com
     - DOMAIN-SUFFIX,toolsnotincluded.net
     - DOMAIN-SUFFIX,intporn.com
+    - DOMAIN-SUFFIX,xchina.co
