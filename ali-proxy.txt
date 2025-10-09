@@ -33,3 +33,4 @@ payload:
     - DOMAIN-SUFFIX,toolsnotincluded.net
     - DOMAIN-SUFFIX,intporn.com
     - DOMAIN-SUFFIX,xchina.co
+	- DOMAIN-SUFFIX,bgm.tv
