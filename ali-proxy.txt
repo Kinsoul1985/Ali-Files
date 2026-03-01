@@ -3,6 +3,7 @@ payload:
     - DOMAIN-SUFFIX,idlechampions.com
     - PROCESS-NAME,IdleDragons
 	- PROCESS-NAME,OxygenNotIncluded.exe
+	- PROCESS-NAME,Battle.net
     - IP-CIDR,2a0a:f280::/32,no-resolve
     - DOMAIN-SUFFIX,byteglow.com
     - DOMAIN-KEYWORD,xn--4gq62f52gdss
