@@ -35,7 +35,7 @@ payload:
     - DOMAIN-SUFFIX,intporn.com
     - DOMAIN-SUFFIX,xchina.co
 	- DOMAIN-SUFFIX,bgm.tv
-	- DOMAIN-SUFFIX,battle.net
+#	- DOMAIN-SUFFIX,battle.net
 	
 	
 	
